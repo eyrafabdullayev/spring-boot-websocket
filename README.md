@@ -15,4 +15,4 @@ to a particular user``. We need STOMP for these. \
 Spring provides default support for it but you can choose any other messaging protocol such as RabbitMQ or ActiveMQ.
 
 ## Running 
-``$ docker run -it -p 8080:8080 eyrafabdullayev/chatapplication:latest ``
+``$ docker run -i -p 8080:8080 eyrafabdullayev/chatapplication:latest ``
